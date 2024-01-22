@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Flying0101
 - 👀 I’m interested in coding...
-- TechStack: NextJs, Typescript, React, HTML/CSS, Mantine, TailwindCSS, Jest.
+- TechStack: Javascript, NodeJs, NextJs, Typescript, React, HTML/CSS, Mantine, TailwindCSS, Jest.
