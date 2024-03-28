@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Flying0101
-- 👀 I’m interested in coding...
-- TechStack: Javascript, NodeJs, NextJs, Typescript, React, HTML/CSS, Mantine, TailwindCSS, Jest.
+- Full-stack development with specialization in Frontend.
+- TechStack: Javascript, NodeJs, NextJs, Typescript, React, HTML/CSS, Mantine, TailwindCSS, Jest, GIT, Vercel.
