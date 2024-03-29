@@ -1,3 +1,3 @@
-- Welcome, I’m @Flying0101
+- Welcome, I’m @Flying0101 a Frontend Developer.
 - Full-stack development with specialization in Frontend.
 - TechStack: Javascript, NodeJs, NextJs, Typescript, React, HTML/CSS, Mantine, TailwindCSS, Jest, GIT, Vercel.
