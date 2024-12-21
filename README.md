@@ -1,3 +1,3 @@
 - Welcome, I’m @Flying0101.
 - Full-stack development with specialization in Frontend.
-- TechStack: Javascript, NodeJs, NextJs, Typescript, React, HTML/CSS, SQL, TailwindCSS, C#, GIT, Vercel, Angular.
+- TechStack: Javascript, NestJs, NextJs, Typescript, React, C#, .NET, SQL, GraphQL, HTML/CSS, SQL, TailwindCSS, Mantine, C#, GIT.
