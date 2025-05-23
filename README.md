@@ -1,3 +1,2 @@
-- Welcome, I’m @Flying0101.
-- Full Stack Developer.
-- TechStack: Javascript, NestJs, NextJs, Typescript, React, C#, .NET, SQL, GraphQL, HTML/CSS, SQL, TailwindCSS, Mantine, C#, GIT.
+Full Stack Engineer.
+From concept to code, shipping end to end.
